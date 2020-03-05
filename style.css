@@ -20,3 +20,70 @@
     cursor: pointer;
     font-size: 25px;
 }
+
+/*Categories Part Design*/
+
+.cat1{
+     background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2 , .cat3{
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color:white;
+}
+.categories img{
+     width:100px;
+}
+
+/*Shoes Part Design*/
+
+.shoes button{
+    margin-left: 96px;
+}
+}
+.card{
+     border:none;
+     box-shadow: 10px 10px 20px lightgray;
+}
+
+/*Backpack Part Design*/
+
+.backpack button{
+    margin-left: 96px;
+}
+.backpack h5{
+    text-align: center;
+}
+.card-footer{
+     border: none;
+     background-color: white;
+     border-top: ;
+}
+
+/*Contact Part Design*/
+
+#contact{
+    height:300px;
+  
+}
+#contact p{
+    color:gray;
+}
+#contact button{
+     margin-top: 5px;
+}
+
+/*Footer Part Design*/
+
+footer p{
+     text-align: center;
+     
+}
